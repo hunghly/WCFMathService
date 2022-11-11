@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\WCFMathService\WCFMathService\bin\WCFMathService.dll.config
+C:\Users\Admin\source\repos\WCFMathService\WCFMathService\bin\WCFMathService.dll
+C:\Users\Admin\source\repos\WCFMathService\WCFMathService\bin\WCFMathService.pdb
+C:\Users\Admin\source\repos\WCFMathService\WCFMathService\obj\Debug\WCFMathService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WCFMathService\WCFMathService\obj\Debug\WCFMathService.dll
+C:\Users\Admin\source\repos\WCFMathService\WCFMathService\obj\Debug\WCFMathService.pdb
