@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFMathService.Service1" CodeBehind="MathService.svc.cs" %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFMathService.MathService" CodeBehind="MathService.svc.cs" %>
