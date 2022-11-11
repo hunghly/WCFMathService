@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMathService", "WCFMathService\WCFMathService.csproj", "{49870F15-9047-4FE9-AECE-3E5C20EF7A8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathServiceClient", "MathServiceClient\MathServiceClient.csproj", "{9B10FDBD-8CF5-45E1-9411-45134B2EB1FB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{49870F15-9047-4FE9-AECE-3E5C20EF7A8F} = {49870F15-9047-4FE9-AECE-3E5C20EF7A8F}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{49870F15-9047-4FE9-AECE-3E5C20EF7A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49870F15-9047-4FE9-AECE-3E5C20EF7A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49870F15-9047-4FE9-AECE-3E5C20EF7A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B10FDBD-8CF5-45E1-9411-45134B2EB1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B10FDBD-8CF5-45E1-9411-45134B2EB1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B10FDBD-8CF5-45E1-9411-45134B2EB1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B10FDBD-8CF5-45E1-9411-45134B2EB1FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
